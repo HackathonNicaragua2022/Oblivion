@@ -1,0 +1,18 @@
+
+#fondo{
+    position: relative;
+width: 1512px;
+height: 782px;
+
+background: linear-gradient(180deg, rgba(154, 52, 234, 0.9) 0%, rgba(52, 147, 234, 0) 108.3%), #BEBCBC;
+}
+
+#panel{
+    position: absolute;
+width: 1325px;
+height: 898px;
+left: 84px;
+top: 48px;
+
+background: rgba(164, 146, 215, 0.75);
+}
