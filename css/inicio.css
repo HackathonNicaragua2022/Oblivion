@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;;
+}
+#fondo{
+    position: relative;
+width: 1536px;
+height: 753px;
+
+position: absolute;
+
+
+    background: linear-gradient(180deg, rgba(154, 52, 234, 0.9) 0%, rgba(52, 147, 234, 0) 108.3%), #BEBCBC;
+}
+
+#panel{
+    position: absolute;
+    width: 1349px;
+    height: 669px;
+
+    left: 84px;
+top: 48px;
+    background: rgba(164, 146, 215, 0.75);
+}
+
+#iconmap{
+    position: absolute;
+    width: 1349px;
+    height: 669px;
+
+    left: 84px;
+top: 48px;
+}
+
+.boton{
+    position: absolute;
+    width: 305px;
+    height: 85px;
+    left: 109px;
+    top: 330px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 0.8;
+    border-radius: 50px;
+}
+
+#boton2{
+    left: 750px;
+}
+#boton1{
+    left: 300px;
+}
+
+#orion{
+    position: absolute;
+width: 231px;
+height: 218px;
+left: 570px;
+top: 440px;
+
+background: url(orion);
+}
+
+h1{
+    text-align: center;
+    font-size: 150px;
+    margin-top: 50px;
+
+    @font-face {
+        font-family: "Berkshire Swash";
+        src: url("/fonts/BerkshireSwash-Regular.ttf");
+           
+      }
+    
+}
