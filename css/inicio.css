@@ -62,16 +62,3 @@ top: 440px;
 
 background: url(orion);
 }
-
-h1{
-    text-align: center;
-    font-size: 150px;
-    margin-top: 50px;
-
-    @font-face {
-        font-family: "Berkshire Swash";
-        src: url("/fonts/BerkshireSwash-Regular.ttf");
-           
-      }
-    
-}
