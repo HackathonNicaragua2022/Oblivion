@@ -31,14 +31,14 @@ background: rgba(217, 217, 217, 0.5);
 
 .boton{
     position: absolute;
-    width: 265px;
+    width: 430px;
     height: 45px;
     top: 300px;
-    left: 188px;
+    left: 105px;
     margin-top: 20px;
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-    
+    text-align: center;
     background: rgba(255, 255, 255, 0.5);
     opacity: 0.8;
     border-radius: 50px;
@@ -69,7 +69,7 @@ background: rgba(217, 217, 217, 0.5);
     position: absolute;
 width: 231px;
 height: 218px;
-left: 570px;
+left: 680px;
 top: 440px;
 
 background: url(orion);
@@ -81,4 +81,30 @@ h1{
     margin-top: 50px;
     font-family: 'Times New Roman';
     
+}
+
+#constelacion{
+
+    position: absolute;
+width: 326px;
+height: 476px;
+right: 700px;
+top: 63px;
+
+background: url(constelacion.png);
+
+}
+
+#enviar{
+    position: absolute;
+    left: 285px;
+    top: 550px;
+
+
+
+}
+
+#line{
+    position: absolute;
+    left: 38px;
 }
