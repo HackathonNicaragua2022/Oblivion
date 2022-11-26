@@ -1,0 +1,25 @@
+
+
+/*breakpoint laptops*/
+@media(min-width: 992px){
+	#map {
+		height: 90%;
+		width: 100%;
+	}
+}
+
+/*breakpoint tablets*/
+@media(min-width: 576px) and (max-width: 991.98px){
+	#map {
+		height: 95%;
+		width: 100%;
+	}
+}
+
+/*breakpoint Celulares*/
+@media(max-width: 575.98px){
+	#map {
+		height: 91%;
+		width: 100%;
+	}
+}

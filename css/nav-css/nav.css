@@ -1,0 +1,19 @@
+nav{
+    background-color: white;
+    margin: 0%;
+    
+}
+
+#orion{
+    position: absolute;
+    width: 81px;
+    height: 68px;
+}
+
+#textorion{
+    color: rgb(59, 37, 80);
+    font-family: 'Berkshire Swash', sans-serif;
+    font-size: 10pt;
+    vertical-align:middle;
+
+}
